@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor e entusiasta de informá
 ---
 
 ### 📈 Conecte-se Comigo
-* **GitHub:** [arthurmeloinformatica-lgtm](https://github.com)
+* **GitHub:** [ArthurzimDev](https://github.com)
 * **Foco Atual:** Aprimoramento de bots interativos para comunidades e otimização de scripts de automação residencial/comercial.
 
 *"O melhor código é aquele que resolve um problema real do seu dia a dia."*
